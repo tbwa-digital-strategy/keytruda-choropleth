@@ -1,0 +1,183 @@
+,Attribute Description,Attribute Name,Attribute Type,Attribute Value,Attribute Value Description,Index,Index.1,Target %,Target %.1,category
+0,ask.com,Web,Web,ask.com,ask.com,135,,0.05614034999999999,,Technology & Computing
+1,verizon.com,Web,Web,verizon.com,verizon.com,125,,0.05146199,,Technology & Computing
+2,searchencrypt.com,Web,Web,searchencrypt.com,searchencrypt.com,124,,0.0580117,,Technology & Computing
+3,definition.org,Web,Web,definition.org,definition.org,118,100.0,0.06011695999999998,0.05053032,Technology & Computing
+4,macys.com,Web,Web,macys.com,macys.com,117,100.0,0.10292398,0.09615769,Shopping
+5,hp.com,Web,Web,hp.com,hp.com,116,100.0,0.06175439000000001,0.05433259999999999,Technology & Computing
+6,att.net,Web,Web,att.net,att.net,116,103.0,0.08561403999999999,0.08084851000000001,News / Weather / Information
+7,samsclub.com,Web,Web,samsclub.com,samsclub.com,115,112.0,0.06947368000000001,0.06613968,Shopping
+8,nextdoor.com,Web,Web,nextdoor.com,nextdoor.com,115,,0.05146199,,Content Server
+9,drugs.com,Web,Web,drugs.com,drugs.com,114,110.0,0.07274854000000001,0.07134281,Illegal Content
+10,americanexpress.com,Web,Web,americanexpress.com,americanexpress.com,114,97.0,0.06222221999999999,0.05693416,Personal Finance
+11,kohls.com,Web,Web,kohls.com,kohls.com,113,117.0,0.12561404,0.13618171,Shopping
+12,legacy.com,Web,Web,legacy.com,legacy.com,113,100.0,0.10783626,0.09645787,Hobbies & Interests
+13,cloudfront.net,Web,Web,cloudfront.net,cloudfront.net,113,104.0,0.05333333,0.05153091999999999,Content Server
+14,netfind.com,Web,Web,netfind.com,netfind.com,112,97.0,0.08421052999999998,0.07224335000000001,Technology & Computing
+15,coupons.com,Web,Web,coupons.com,coupons.com,112,104.0,0.05239765999999999,0.05503302,Shopping
+16,bankofamerica.com,Web,Web,bankofamerica.com,bankofamerica.com,112,94.0,0.10269006,0.09255553000000001,Personal Finance
+17,bit.ly,Web,Web,bit.ly,bit.ly,112,107.0,0.07391813,0.07454473,Non-Standard Content
+18,aarp.org,Web,Web,aarp.org,aarp.org,111,,0.05029239999999999,,Personal Finance
+19,att.com,Web,Web,att.com,att.com,110,105.0,0.13918129,0.13658195,Technology & Computing
+20,surveymonkey.com,Web,Web,surveymonkey.com,surveymonkey.com,110,94.0,0.07087719,0.06984191000000001,Business
+21,sears.com,Web,Web,sears.com,sears.com,110,105.0,0.07298246,0.07094257000000001,Shopping
+22,justanswer.com,Web,Web,justanswer.com,justanswer.com,109,,0.05076023,,"Law, Government, & Politics"
+23,aol.com,Web,Web,aol.com,aol.com,108,96.0,0.13005848,0.11847108,News / Weather / Information
+24,chewy.com,Web,Web,chewy.com,chewy.com,108,97.0,0.0580117,0.05623374000000001,Pets
+25,jcpenney.com,Web,Web,jcpenney.com,jcpenney.com,108,115.0,0.0902924,0.09825895999999998,Shopping
+26,truthfinder.com,Web,Web,truthfinder.com,truthfinder.com,107,97.0,0.05309941999999999,0.05103061999999999,Technology & Computing
+27,narvar.com,Web,Web,narvar.com,narvar.com,107,105.0,0.05309941999999999,0.05523314000000001,Business
+28,list-manage.com,Web,Web,list-manage.com,list-manage.com,106,99.0,0.11368421,0.10756454,Education
+29,staples.com,Web,Web,staples.com,staples.com,106,98.0,0.05263158000000001,0.05273163999999999,Technology & Computing
+30,verizonwireless.com,Web,Web,verizonwireless.com,verizonwireless.com,106,108.0,0.12444444,0.12557535,Technology & Computing
+31,intentmedia.net,Web,Web,intentmedia.net,intentmedia.net,106,95.0,0.05918129000000001,0.05513307999999999,Uncategorized
+32,ssa.gov,Web,Web,ssa.gov,ssa.gov,106,94.0,0.05684211,0.05463278000000001,"Law, Government, & Politics"
+33,msn.com,Web,Web,msn.com,msn.com,106,95.0,0.13894737,0.12977787,News / Weather / Information
+34,vimeo.com,Web,Web,vimeo.com,vimeo.com,106,,0.05543859999999999,,Streaming Media
+35,tasteofhome.com,Web,Web,tasteofhome.com,tasteofhome.com,106,110.0,0.05029239999999999,0.05013008,Food & Drink
+36,googleadservices.com,Web,Web,googleadservices.com,googleadservices.com,106,102.0,0.24,0.23824295,Business
+37,lowes.com,Web,Web,lowes.com,lowes.com,105,100.0,0.16608187,0.15959576,Shopping
+38,usps.com,Web,Web,usps.com,usps.com,105,101.0,0.16935673,0.17020212,Business
+39,ticketmaster.com,Web,Web,ticketmaster.com,ticketmaster.com,105,117.0,0.10105263,0.1106664,Uncategorized
+40,citi.com,Web,Web,citi.com,citi.com,105,101.0,0.06853801,0.07074244999999998,Personal Finance
+41,amazonaws.com,Web,Web,amazonaws.com,amazonaws.com,105,98.0,0.14269006,0.13898339,Technology & Computing
+42,adp.com,Web,Web,adp.com,adp.com,104,85.0,0.05099415,0.05033019999999999,Business
+43,webmd.com,Web,Web,webmd.com,webmd.com,104,102.0,0.20046784,0.20102061,Health & Fitness
+44,medicinenet.com,Web,Web,medicinenet.com,medicinenet.com,104,103.0,0.05356725,0.05213127999999999,Non-Standard Content
+45,fedex.com,Web,Web,fedex.com,fedex.com,104,109.0,0.10152047,0.1086652,Business
+46,goo.gl,Web,Web,goo.gl,goo.gl,103,113.0,0.06292398,0.0658395,Technology & Computing
+47,bedbathandbeyond.com,Web,Web,bedbathandbeyond.com,bedbathandbeyond.com,103,98.0,0.06877193000000001,0.07014208999999999,Home & Garden
+48,booking.com,Web,Web,booking.com,booking.com,103,97.0,0.06736841999999998,0.06463878,Real Estate
+49,trulia.com,Web,Web,trulia.com,trulia.com,103,103.0,0.07649123000000001,0.07884730999999999,Real Estate
+50,bing.com,Web,Web,bing.com,bing.com,103,88.0,0.16982456,0.15009005,Technology & Computing
+51,wayfair.com,Web,Web,wayfair.com,wayfair.com,103,110.0,0.10526316,0.11176706,Home & Garden
+52,pinimg.com,Web,Web,pinimg.com,pinimg.com,102,104.0,0.06245613999999999,0.0643386,Technology & Computing
+53,mapquest.com,Web,Web,mapquest.com,mapquest.com,102,97.0,0.10877193,0.10226136,Hobbies & Interests
+54,dictionary.com,Web,Web,dictionary.com,dictionary.com,102,105.0,0.05473684000000001,0.05893536000000001,Education
+55,homedepot.com,Web,Web,homedepot.com,homedepot.com,102,99.0,0.18760234,0.18991395,Home & Garden
+56,southwest.com,Web,Web,southwest.com,southwest.com,102,106.0,0.07836256999999999,0.08034820999999999,Travel
+57,cvs.com,Web,Web,cvs.com,cvs.com,102,99.0,0.05894736999999999,0.06223734000000001,Shopping
+58,outbrain.com,Web,Web,outbrain.com,outbrain.com,102,99.0,0.08327484999999998,0.08324994999999998,Business
+59,qualtrics.com,Web,Web,qualtrics.com,qualtrics.com,102,107.0,0.05192981999999999,0.05093056,Business
+60,cargurus.com,Web,Web,cargurus.com,cargurus.com,101,97.0,0.05894736999999999,0.05643386,Automotive
+61,costco.com,Web,Web,costco.com,costco.com,101,101.0,0.07415205,0.07644586999999999,Shopping
+62,expedia.com,Web,Web,expedia.com,expedia.com,101,104.0,0.09894736999999999,0.10306184,Travel
+63,houzz.com,Web,Web,houzz.com,houzz.com,101,107.0,0.06315789,0.06273764,Home & Garden
+64,microsoft.com,Web,Web,microsoft.com,microsoft.com,101,90.0,0.18900585,0.17790674,Technology & Computing
+65,walgreens.com,Web,Web,walgreens.com,walgreens.com,101,108.0,0.07953216,0.08264959,Shopping
+66,realtor.com,Web,Web,realtor.com,realtor.com,101,101.0,0.11532164,0.11496898,Real Estate
+67,foodnetwork.com,Web,Web,foodnetwork.com,foodnetwork.com,101,109.0,0.07859648999999999,0.08495096999999999,Food & Drink
+68,ups.com,Web,Web,ups.com,ups.com,101,102.0,0.12912281,0.13578147,Business
+69,walmart.com,Web,Web,walmart.com,walmart.com,101,102.0,0.37777778,0.38623174,Shopping
+70,amazon.com,Web,Web,amazon.com,amazon.com,101,100.0,0.6390643299999998,0.64898939,Shopping
+71,beenverified.com,Web,Web,beenverified.com,beenverified.com,101,108.0,0.05380117,0.05793475999999999,Technology & Computing
+72,whitepages.com,Web,Web,whitepages.com,whitepages.com,101,101.0,0.10292398,0.1021613,Pets
+73,autozone.com,Web,Web,autozone.com,autozone.com,100,97.0,0.05660819,0.05213127999999999,Automotive
+74,irs.gov,Web,Web,irs.gov,irs.gov,100,101.0,0.15111111,0.15529318,Personal Finance
+75,office.com,Web,Web,office.com,office.com,100,101.0,0.10035088,0.10536322,Technology & Computing
+76,spokeo.com,Web,Web,spokeo.com,spokeo.com,100,101.0,0.05380117,0.05443266,Technology & Computing
+77,wikihow.com,Web,Web,wikihow.com,wikihow.com,100,101.0,0.09052632,0.09215529,Technology & Computing
+78,retailmenot.com,Web,Web,retailmenot.com,retailmenot.com,100,115.0,0.06877193000000001,0.08294976999999999,Shopping
+79,doubleclick.net,Web,Web,doubleclick.net,doubleclick.net,100,101.0,0.2128655,0.20902542,Business
+80,groupon.com,Web,Web,groupon.com,groupon.com,100,111.0,0.11134503,0.1196718,Shopping
+81,overstock.com,Web,Web,overstock.com,overstock.com,100,104.0,0.08116958999999999,0.08214929,Shopping
+82,geniuskitchen.com,Web,Web,geniuskitchen.com,geniuskitchen.com,100,107.0,0.08514619999999999,0.09455673,Food & Drink
+83,time.com,Web,Web,time.com,time.com,100,100.0,0.07181287,0.07534520999999998,News / Weather / Information
+84,weather.com,Web,Web,weather.com,weather.com,99,97.0,0.15953216,0.16309786,News / Weather / Information
+85,livestrong.com,Web,Web,livestrong.com,livestrong.com,99,111.0,0.08233918000000001,0.09545727,Health & Fitness
+86,usatoday.com,Web,Web,usatoday.com,usatoday.com,99,97.0,0.1419883,0.14158495,News / Weather / Information
+87,yahoo.com,Web,Web,yahoo.com,yahoo.com,99,95.0,0.46947368,0.4632779700000001,Technology & Computing
+88,buzzfeed.com,Web,Web,buzzfeed.com,buzzfeed.com,99,103.0,0.07461988,0.07644586999999999,News / Weather / Information
+89,youtube.com,Web,Web,youtube.com,youtube.com,99,96.0,0.5391812899999999,0.5355213099999998,Non-Standard Content
+90,avast.com,Web,Web,avast.com,avast.com,99,94.0,0.08163743,0.07524515,Technology & Computing
+91,google.com,Web,Web,google.com,google.com,99,101.0,0.9019883,0.91244747,Technology & Computing
+92,ebay.com,Web,Web,ebay.com,ebay.com,99,102.0,0.37052632,0.38563138,Shopping
+93,taboola.com,Web,Web,taboola.com,taboola.com,99,97.0,0.08327484999999998,0.08004802999999999,Business
+94,googleusercontent.com,Web,Web,googleusercontent.com,googleusercontent.com,99,98.0,0.10526316,0.11336802,Content Server
+95,adobe.com,Web,Web,adobe.com,adobe.com,99,92.0,0.12538012,0.12397438,Business
+96,ancestry.com,Web,Web,ancestry.com,ancestry.com,99,98.0,0.07017544,0.06513908,Hobbies & Interests
+97,samsung.com,Web,Web,samsung.com,samsung.com,98,98.0,0.06292398,0.06794075999999999,Technology & Computing
+98,spectrum.net,Web,Web,spectrum.net,spectrum.net,98,114.0,0.05029239999999999,0.0563338,Technology & Computing
+99,washingtonpost.com,Web,Web,washingtonpost.com,washingtonpost.com,98,97.0,0.12280702,0.12807685,News / Weather / Information
+100,dropbox.com,Web,Web,dropbox.com,dropbox.com,98,98.0,0.07766081999999999,0.08405043000000004,Technology & Computing
+101,cnet.com,Web,Web,cnet.com,cnet.com,97,99.0,0.11087719,0.11687012,News / Weather / Information
+102,cbssports.com,Web,Web,cbssports.com,cbssports.com,97,95.0,0.07532164,0.07404443000000001,American Football
+103,pinterest.com,Web,Web,pinterest.com,pinterest.com,97,103.0,0.25567251,0.2730638399999999,Technology & Computing
+104,capitalone.com,Web,Web,capitalone.com,capitalone.com,97,93.0,0.10035088,0.10726436,Personal Finance
+105,blogspot.com,Web,Web,blogspot.com,blogspot.com,97,104.0,0.18690058,0.19591755,Non-Standard Content
+106,facebook.com,Web,Web,facebook.com,facebook.com,97,99.0,0.6669005799999999,0.6801080599999999,Society
+107,mayoclinic.org,Web,Web,mayoclinic.org,mayoclinic.org,97,100.0,0.08795322000000001,0.08865318999999999,Health & Fitness
+108,twitter.com,Web,Web,twitter.com,twitter.com,96,99.0,0.27578947,0.28086852,Society
+109,espn.com,Web,Web,espn.com,espn.com,96,97.0,0.12561404,0.12877727,Sports
+110,healthline.com,Web,Web,healthline.com,healthline.com,96,101.0,0.09192981999999998,0.09655793000000001,Health & Fitness
+111,tripadvisor.com,Web,Web,tripadvisor.com,tripadvisor.com,96,104.0,0.13871345,0.14568741,Travel
+112,wellsfargo.com,Web,Web,wellsfargo.com,wellsfargo.com,96,95.0,0.08748538,0.08755252999999999,Personal Finance
+113,tumblr.com,Web,Web,tumblr.com,tumblr.com,96,93.0,0.08163743,0.08194917,Non-Standard Content
+114,gamespot.com,Web,Web,gamespot.com,gamespot.com,96,96.0,0.05333333,0.0548329,Hobbies & Interests
+115,etsy.com,Web,Web,etsy.com,etsy.com,96,114.0,0.14830409,0.16439864,Style & Fashion
+116,allrecipes.com,Web,Web,allrecipes.com,allrecipes.com,96,106.0,0.11929825,0.13087853,Food & Drink
+117,foxnews.com,Web,Web,foxnews.com,foxnews.com,96,100.0,0.14783626,0.14928957,News / Weather / Information
+118,intuit.com,Web,Web,intuit.com,intuit.com,96,101.0,0.16233918,0.17430458,Business
+119,microsoftonline.com,Web,Web,microsoftonline.com,microsoftonline.com,96,107.0,0.0619883,0.07194317,Technology & Computing
+120,wikipedia.org,Web,Web,wikipedia.org,wikipedia.org,96,101.0,0.44888889,0.47508505,Education
+121,thebalance.com,Web,Web,thebalance.com,thebalance.com,95,103.0,0.07602339,0.08304983,Personal Finance
+122,huffingtonpost.com,Web,Web,huffingtonpost.com,huffingtonpost.com,95,97.0,0.09263158,0.09545727,News / Weather / Information
+123,fandango.com,Web,Web,fandango.com,fandango.com,95,103.0,0.0580117,0.06323794,Arts & Entertainment
+124,go.com,Web,Web,go.com,go.com,95,109.0,0.1405848,0.15059035,Business
+125,forbes.com,Web,Web,forbes.com,forbes.com,95,99.0,0.10900585,0.1106664,News / Weather / Information
+126,live.com,Web,Web,live.com,live.com,95,98.0,0.17450292,0.18220933,Technology & Computing
+127,chase.com,Web,Web,chase.com,chase.com,95,95.0,0.1328655,0.13748249,Personal Finance
+128,paypal.com,Web,Web,paypal.com,paypal.com,95,106.0,0.22245614,0.24124475,Personal Finance
+129,bestbuy.com,Web,Web,bestbuy.com,bestbuy.com,95,99.0,0.14736842,0.15459276,Shopping
+130,usnews.com,Web,Web,usnews.com,usnews.com,95,104.0,0.08397661000000001,0.09155493,News / Weather / Information
+131,businessinsider.com,Web,Web,businessinsider.com,businessinsider.com,95,100.0,0.10830409,0.11446868,Arts & Entertainment
+132,snopes.com,Web,Web,snopes.com,snopes.com,94,98.0,0.06175439000000001,0.06714028000000001,Non-Standard Content
+133,accuweather.com,Web,Web,accuweather.com,accuweather.com,94,98.0,0.14292398,0.14548729,News / Weather / Information
+134,nbcnews.com,Web,Web,nbcnews.com,nbcnews.com,94,96.0,0.07602339,0.07984791,Non-Standard Content
+135,yellowpages.com,Web,Web,yellowpages.com,yellowpages.com,94,93.0,0.11251462,0.10786472,Shopping
+136,bloomberg.com,Web,Web,bloomberg.com,bloomberg.com,94,86.0,0.05590643000000002,0.0518311,News / Weather / Information
+137,nytimes.com,Web,Web,nytimes.com,nytimes.com,94,98.0,0.15836257,0.16790074,News / Weather / Information
+138,zillow.com,Web,Web,zillow.com,zillow.com,94,100.0,0.17333333,0.19151491,Real Estate
+139,imdb.com,Web,Web,imdb.com,imdb.com,94,102.0,0.18152047,0.19251551,Arts & Entertainment
+140,npr.org,Web,Web,npr.org,npr.org,94,102.0,0.07836256999999999,0.08164899,News / Weather / Information
+141,yelp.com,Web,Web,yelp.com,yelp.com,93,99.0,0.20725146,0.22173304,Technology & Computing
+142,apple.com,Web,Web,apple.com,apple.com,93,95.0,0.12327485,0.13448069,Mac Support
+143,eventbrite.com,Web,Web,eventbrite.com,eventbrite.com,93,92.0,0.05239765999999999,0.05713428000000002,Careers
+144,nih.gov,Web,Web,nih.gov,nih.gov,93,113.0,0.09076023000000001,0.10126076,Health & Fitness
+145,kbb.com,Web,Web,kbb.com,kbb.com,93,97.0,0.05567250999999999,0.058335,Automotive
+146,cnn.com,Web,Web,cnn.com,cnn.com,93,99.0,0.1974269,0.20322193,News / Weather / Information
+147,wikia.com,Web,Web,wikia.com,wikia.com,93,99.0,0.12935673,0.13868321,Hobbies & Interests
+148,huffpost.com,Web,Web,huffpost.com,huffpost.com,92,105.0,0.05426900999999999,0.06393836,News / Weather / Information
+149,theguardian.com,Web,Web,theguardian.com,theguardian.com,92,100.0,0.06877193000000001,0.07204323000000003,News / Weather / Information
+150,zergnet.com,Web,Web,zergnet.com,zergnet.com,92,103.0,0.06105263000000001,0.06143686,Health & Fitness
+151,wordpress.com,Web,Web,wordpress.com,wordpress.com,92,96.0,0.13590643,0.14568741,Technology & Computing
+152,linkedin.com,Web,Web,linkedin.com,linkedin.com,92,100.0,0.16280702,0.17770662,Society
+153,email.com,Web,Web,email.com,email.com,92,108.0,0.05169590999999999,0.06113668,Uncategorized
+154,reddit.com,Web,Web,reddit.com,reddit.com,92,96.0,0.16374269,0.17640584,Unmoderated UGC / Message Boards
+155,craigslist.org,Web,Web,craigslist.org,craigslist.org,92,93.0,0.19906433,0.20632379,Unmoderated UGC / Message Boards
+156,people.com,Web,Web,people.com,people.com,92,112.0,0.08,0.09265559,News / Weather / Information
+157,ebaydesc.com,Web,Web,ebaydesc.com,ebaydesc.com,92,109.0,0.05754386000000002,0.06163698000000001,Shopping
+158,quora.com,Web,Web,quora.com,quora.com,91,98.0,0.14549708,0.1554933,Unmoderated UGC / Message Boards
+159,stackexchange.com,Web,Web,stackexchange.com,stackexchange.com,91,101.0,0.07789474,0.08635181,Non-Standard Content
+160,cnbc.com,Web,Web,cnbc.com,cnbc.com,91,94.0,0.07625731,0.08194917,Personal Finance
+161,file:,Web,Web,file:,file:,91,100.0,0.05380117,0.0563338,N/A
+162,target.com,Web,Web,target.com,target.com,91,114.0,0.18245614,0.21693016,Shopping
+163,dailymail.co.uk,Web,Web,dailymail.co.uk,dailymail.co.uk,91,95.0,0.09356725000000002,0.09435661,News / Weather / Information
+164,gmail.com,Web,Web,gmail.com,gmail.com,91,95.0,0.0825731,0.09025414999999999,Technology & Computing
+165,hulu.com,Web,Web,hulu.com,hulu.com,90,96.0,0.06502924,0.06493895999999999,Non-Standard Content
+166,thespruce.com,Web,Web,thespruce.com,thespruce.com,90,112.0,0.08421052999999998,0.1001601,Home & Garden
+167,cbsnews.com,Web,Web,cbsnews.com,cbsnews.com,90,96.0,0.08491227999999998,0.09325595,News / Weather / Information
+168,comcast.net,Web,Web,comcast.net,comcast.net,90,112.0,0.06877193000000001,0.07324395,Arts & Entertainment
+169,indeed.com,Web,Web,indeed.com,indeed.com,90,100.0,0.12654971,0.14298579,Careers
+170,instagram.com,Web,Web,instagram.com,instagram.com,90,101.0,0.16678363,0.17790674,Technology & Computing
+171,glassdoor.com,Web,Web,glassdoor.com,glassdoor.com,89,101.0,0.05824561,0.07304383,Careers
+172,discover.com,Web,Web,discover.com,discover.com,89,98.0,0.05426900999999999,0.05803481999999999,Personal Finance
+173,xfinity.com,Web,Web,xfinity.com,xfinity.com,88,106.0,0.08935673,0.09275565,Arts & Entertainment
+174,latimes.com,Web,Web,latimes.com,latimes.com,88,96.0,0.06269005999999999,0.06894136000000001,News / Weather / Information
+175,netflix.com,Web,Web,netflix.com,netflix.com,88,93.0,0.1354386,0.14448669,Arts & Entertainment
+176,sfgate.com,Web,Web,sfgate.com,sfgate.com,88,100.0,0.05754386000000002,0.06313788000000001,News / Weather / Information
+177,airbnb.com,Web,Web,airbnb.com,airbnb.com,88,103.0,0.05029239999999999,0.05703421999999999,Travel
+178,nypost.com,Web,Web,nypost.com,nypost.com,88,98.0,0.07649123000000001,0.08405043000000004,News / Weather / Information
+179,creditkarma.com,Web,Web,creditkarma.com,creditkarma.com,88,98.0,0.08304094000000001,0.09525715,Personal Finance
+180,bbc.com,Web,Web,bbc.com,bbc.com,88,97.0,0.06643275,0.07084251,News / Weather / Information
+181,imgur.com,Web,Web,imgur.com,imgur.com,88,100.0,0.06994152000000001,0.08134880999999998,Technology & Computing
